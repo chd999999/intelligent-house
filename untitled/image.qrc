@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/images.cpp</file>
+        <file>images/qq.png</file>
+        <file>images/QQ图片20210519145357.jpg</file>
+        <file>images/二维码.png</file>
+        <file>images/头像.png</file>
+        <file>images/QQ图片20210519161815.jpg</file>
+        <file>images/qq(1).png</file>
+        <file>images/键盘.png</file>
+        <file>images/锁 开启.png</file>
+        <file>images/错号.png</file>
+        <file>images/设 置.png</file>
+        <file>images/减号.png</file>
+        <file>images/湿度.png</file>
+        <file>images/温度.png</file>
+        <file>images/灯.png</file>
+        <file>images/QQ图片20210521092410.jpg</file>
+        <file>images/qq_pic_merged_1621560860621.jpg</file>
+        <file>images/灯(1).png</file>
+        <file>images/湿度(1).png</file>
+        <file>images/温度(1).png</file>
+        <file>images/喇叭 (2).png</file>
+        <file>images/喇叭.png</file>
+        <file>images/传感器.png</file>
+        <file>images/蜂鸣器.png</file>
+        <file>images/家电_蜂鸣器.png</file>
+        <file>images/风扇(2).png</file>
+        <file>images/风扇.png</file>
+        <file>images/风扇(1).png</file>
+        <file>images/大雨.png</file>
+        <file>images/多云.png</file>
+        <file>images/晴天.png</file>
+        <file>images/小雨.png</file>
+        <file>images/阴.png</file>
+        <file>images/中雨.png</file>
+        <file>images/QQ图片20210523112734.jpg</file>
+        <file>images/QQ图片20210523114020.jpg</file>
+        <file>images/QQ图片20210523114240.jpg</file>
+        <file>images/QQ图片20210524084256.jpg</file>
+        <file>images/QQ图片20210524084308.jpg</file>
+        <file>images/QQ图片20210524173008.jpg</file>
+        <file>images/housephoto.jpg</file>
+        <file>images/20170116_fd7269506349aefc400edx3ux9l1dk4z_sp.jpg</file>
+        <file>images/16242338-cc3e0aa993a1a68a6c8da0c68d13ccdd.jpg</file>
+        <file>images/b2a636ea4e954b2d85046c1f6701a3a3.jpeg</file>
+        <file>images/灯塔.png</file>
+        <file>images/房子.png</file>
+        <file>images/灯塔(1).png</file>
+        <file>images/未填二维码.png</file>
+        <file>images/连接.png</file>
+        <file>images/连接线.png</file>
+        <file>images/ChMkJ1bKwe6Id5_RAAMvAGMbcLUAALGgAO5UXgAAy8Y950.jpg</file>
+        <file>images/01dbe45c25dfe1a80121df90d225e4.jpg</file>
+    </qresource>
+</RCC>
